@@ -1,0 +1,3 @@
+ -Xms64m -Xmx512m
+TowerDefense_2
+TowerDefense_2.jar,core.jar,jogl-all.jar,gluegen-rt.jar,jogl-all-natives-windows-amd64.jar,gluegen-rt-natives-windows-amd64.jar
